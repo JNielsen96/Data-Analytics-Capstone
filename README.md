@@ -15,7 +15,7 @@ A capstone data analytics project evaluating the real-world effectiveness of Goo
 - <b>numpy<b>
 - <b>scipy.stats<b>
 - <b>scikit-learn or statsmodels (linear regression)<b>
-- <b>Geospatial tools (Haversine distance calculation; interactive mapping — e.g. Folium/Plotly)<b>
+- <b>Geospatial tools (Haversine distance calculation; interactive mapping e.g. Folium/Plotly)<b>
 
 
 
