@@ -35,7 +35,7 @@ Monthly strike rate vs temperature:  <br/>
 <img src="https://i.imgur.com/aF5ntyg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
-Trap effectiveness: 
+Trap effectiveness: <br/>
 <img src="https://i.imgur.com/AX4VSQL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -45,4 +45,8 @@ Linear regression: <br/>
 <br />
 Distribution model:  <br/>
 <img src="https://i.imgur.com/Ikcv91y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+Mapping model:  <br/>
+<img src="https://i.imgur.com/P9s4WpG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
